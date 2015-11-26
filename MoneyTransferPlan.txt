@@ -1,0 +1,7 @@
+% Prompt user for balances of local bank accounts for Alex and Rachael
+% Convert balances from QR to USD
+% Prompt user for amount of money to leave in accounts
+Check to make sure that there is sufficient money in the account
+Calculate balance of money that can be transferred out of each account
+Print Rachael surplus as amount which can be transferred to Alex
+Print Rachael surplus plus Alex surplus as amount which can be transferred
